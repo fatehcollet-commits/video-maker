@@ -1,0 +1,6 @@
+{
+  "name": "Sector Seven: The Night Shift",
+  "description": "Code-only 2.5D vertical horror short pipeline and Episode 1: Rule Four (1080x1920 @ 30fps, 60.0s suspense format).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
